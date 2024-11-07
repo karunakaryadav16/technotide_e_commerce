@@ -1,0 +1,58 @@
+*{
+
+margin:0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: Arial, sans-serif;
+
+
+}
+
+
+.overall_container {
+
+
+min-width:100%;
+min-height:100vw;
+overflow: hidden;
+padding-left:5px;
+padding-right:5px;
+padding-top:2px;
+padding-bottom: 5px;
+display:flex;
+flex-direction: column;
+row-gap: 10px !important;
+position: relative;
+
+
+}
+
+.products_container {
+
+      display:flex ;
+      flex-direction: row;
+      flex-wrap:wrap !important;
+
+
+}
+
+
+.navbar{
+
+
+position: sticky !important;;
+top: 2px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
